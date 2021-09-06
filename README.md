@@ -22,4 +22,9 @@ You are probably familiar with what spam emails are already; spam email filterin
 
 # CONCLUSION
 Conclusion i am able to classify the emails as spam or non-spam(Ham). With high number of emails lots if people using the system it will be difficult to handle all possible mails as our project deals with only limited amount of corpus. Limitations of The Project Following are the limitations of our project: Our project, therefore spam filter is capable of filtering mails according to the domain names listed in black list only.
+
+
+ # other useful links
+  1. https://www.linkedin.com/in/vaidehee-d-657213191/
+  2.  https://twitter.com/14_dalvi
  
